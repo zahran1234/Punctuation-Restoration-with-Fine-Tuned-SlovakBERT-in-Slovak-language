@@ -71,11 +71,4 @@ A practical example is included, where:
 - Hugging Face Transformers 4.0+
 - NLTK 3.5+
 
-## Installation
 
-Clone this repository and install dependencies:
-
-```bash
-git clone https://github.com/yourusername/punctuation-restoration.git
-cd punctuation-restoration
-pip install -r requirements.txt
